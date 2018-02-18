@@ -1,7 +1,6 @@
 ﻿/* Operations with vectors. */
-
-#include "stdafx.h"
 #include <iostream>
+#include "vector.cpp"
 #include "vector.h"
 
 using namespace std;
