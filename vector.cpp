@@ -19,9 +19,9 @@ double substraction(double a, double b)
 	return a - b;
 }
 
-double multiply(double n, double coord)
+double multiply(double n, double c)
 {
-	return n * coord;
+	return n * c;
 }
 
 
